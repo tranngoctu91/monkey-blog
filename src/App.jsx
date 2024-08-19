@@ -1,5 +1,11 @@
+import Card from "./learn-styled-components/Card";
+
 function App() {
-  return <></>;
+  return (
+    <div>
+      <Card></Card>
+    </div>
+  );
 }
 
 export default App;
