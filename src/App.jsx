@@ -1,9 +1,9 @@
-import Card from "./learn-styled-components/Card";
+import Register from "./rhf/Register";
 
 function App() {
   return (
     <div>
-      <Card></Card>
+      <Register></Register>
     </div>
   );
 }
